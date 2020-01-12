@@ -56,3 +56,17 @@
 
 Жмем `Next...`
 
+![Alt text](https://istarik.ru/uploads/images/00/00/01/2018/10/16/d298fe.png)
+
+В пункте ``Download to device`` указываем путь к нужному .bin или .hex файлу и жмем `Next...`
+
+![Alt text](https://istarik.ru/uploads/images/00/00/01/2018/07/25/31f5bf.png)
+
+Всё готово, верните джампер в исходное положение и нажмите `Reset` или выключите и включите плату.
+
+![Alt text](https://istarik.ru/uploads/images/00/00/01/2018/07/26/761582.png)
+
+## P.S.
+
+Все описанные действия можно проделать с помощью фирменной утилиты — `STM32CubeProgrammer` (Windows®, Linux®, macOS®)
+https://www.st.com/en/development-tools/stm32cubeprog.html
