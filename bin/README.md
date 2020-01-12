@@ -27,9 +27,11 @@
 
 ![Alt text](https://istarik.ru/uploads/images/00/00/01/2018/07/27/fe9108.png)
 
-Конвертер `RX` <-> `PA9` STM
-Конвертер `TX` <-> `PA10` STM
-Конвертер `GND` <-> `GND` STM
+- Конвертер `RX` -> `PA9` STM
+
+- Конвертер `TX` -> `PA10` STM
+
+- Конвертер `GND` -> `GND` STM
 
 … и подключаем конвертер и STM к компьютеру.
 
